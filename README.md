@@ -1,13 +1,12 @@
 # Homework 1. Introduction to Data Extraction
 In this assignment, you will extract meaningful information from unstructured data.
 
-Due Date: *Friday April 9, 2021 11:59 pm*
+Due Date: *Monday April 4, 2021 11:59 pm*
 
 ## Initial Setup
-These initial setup instructions assume you've done ``HW0``. Before you start an assingment you should sync your cloned repository with the online one:
+These initial setup instructions assume you've done ``HW0``. Like before, you need to first accept the assignment and clone your repository:
 ```
-$ cd cmsc13600-materials
-$ git pull
+https://classroom.github.com/a/Q7PBqqHQ
 ```
 In this homework assignment, you will only modify ``extract.py``. Once you are done, you must add 'extract.py' to git:
 ```
